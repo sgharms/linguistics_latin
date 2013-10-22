@@ -1,6 +1,18 @@
-# LinguisticsLatin
+# Linguistics::Latin
 
-TODO: Write a gem description
+A module which models the Latin language's verbs an phonographic
+behavior.  These are behaviors and inhabitants of Latin grammar
+universe.  Regardless of which programs use these data, these behaviors
+will always remain true.
+
+By way of constrast, another library (say, [LatinVerb][]) might *use*
+these definitions, but does not alter them.  Particular data structures
+for processing or mutating data are native to client libraries.
+
+I should hope that in future this gem and others like it be merged into
+a common Linguistics Gem.
+
+[LatinVerb]: https://github.com/sgharms/LatinVerb
 
 ## Installation
 
@@ -18,12 +30,4 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
-
-## Contributing
-
-1. Fork it
-2. Create your feature branch (`git checkout -b my-new-feature`)
-3. Commit your changes (`git commit -am 'Add some feature'`)
-4. Push to the branch (`git push origin my-new-feature`)
-5. Create new Pull Request
+This is pretty much a library which defines some constants.
