@@ -5,11 +5,11 @@ require 'linguistics_latin/version'
 
 Gem::Specification.new do |spec|
   spec.name          = "linguistics_latin"
-  spec.version       = LinguisticsLatin::VERSION
+  spec.version       = Linguistics::Latin::VERSION
   spec.authors       = ["Steven G. Harms"]
   spec.email         = ["steven.harms@gmail.com"]
-  spec.description   = %q{TODO: Write a gem description}
-  spec.summary       = %q{TODO: Write a gem summary}
+  spec.description   = %q{Constants and grammatical definitions for the Latin language}
+  spec.summary       = %q{A series of constants and universal behaviors that describe the verb grammar and phonographic rules of the Latin language.}
   spec.homepage      = ""
   spec.license       = "MIT"
 
