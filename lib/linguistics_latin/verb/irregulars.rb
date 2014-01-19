@@ -435,7 +435,7 @@ EOJSON
             }
           },
           "tense_blocks": {
-            "active voice_imperative_mood_present_tense": {
+            "active_voice_imperative_mood_present_tense": {
               "data": [
                 [],
                 "i",
@@ -1473,7 +1473,7 @@ EOJSON
             }
           },
           "tense_blocks": {
-            "active voice_imperative_mood_present_tense": {
+            "active_voice_imperative_mood_present_tense": {
               "data": [
                 [],
                 "",
@@ -1643,7 +1643,7 @@ EOJSON
             }
           },
           "tense_blocks": {
-            "active voice_imperative_mood_present_tense": {
+            "active_voice_imperative_mood_present_tense": {
               "data": [
                 [],
                 "",
