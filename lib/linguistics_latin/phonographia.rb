@@ -13,7 +13,7 @@ module Linguistics
     # When the heuristic  postpends "t" to get the present, indicative, third
     # person singular, the result is "amāt," which, by rules of Latin
     # phonology, must be made to bear a short sound in the ultimate vowel.
-    # This state is _phonographically_ notes as "amat."  This module
+    # This state is _phonographically_ noted as "amat."  This module
     # implements the appropriate rules for proper phonetic compliance.
     #
     # === DESCRIPTION
