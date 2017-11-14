@@ -46,16 +46,6 @@ module Linguistics
     ##
     module Phonographia
       MACRON_TABLE = {
-        "\xc4\x81" => 'a',
-        "\xc4\x93" => 'e',
-        "\xc4\xab" => 'i',
-        "\xc5\x8d" => 'o',
-        "\xc5\xab" => 'u',
-        "\xc4\x80" => 'A',
-        "\xc4\x92" => 'E',
-        "\xc4\xaa" => 'I',
-        "\xc5\x8c" => 'O',
-        "\xc5\xaa" => 'U',
         "ā" => 'a',
         "ē" => 'e',
         "ī" => 'i',
